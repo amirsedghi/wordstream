@@ -23,3 +23,26 @@
 	text-decoration: none;
 	font-size:13px;
 }
+
+.warehouse{
+	background-color: white;
+	background-repeat: no-repeat;
+	width: 382px;
+	height: 260px;
+	padding: 5px 0px 0px 5px;
+}
+
+.mainContent{
+	background-color: gray;
+	width: 1022px;
+	height: 800px;
+}
+
+.headliner{
+	margin: 15px 15px 10px 35px;
+	display: inline-block;
+}
+
+.footer{
+	display: inline-block;
+}
