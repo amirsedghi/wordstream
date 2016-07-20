@@ -1,0 +1,25 @@
+*{
+	font-family: sans-serif;
+}
+.mainGraphic{
+	background-image: url("logo.png");
+	height:69px;
+	width:1022px;
+	background-repeat: no-repeat;
+}
+.mainGraphic b{
+	margin-left:700px;
+	margin-top:30px;
+	display:inline-block;
+	font-size:18px;
+}
+.mainMenu ul{
+	list-style-type: none;
+}
+.mainMenu li{
+	display: inline;
+}
+.mainMenu a{
+	text-decoration: none;
+	font-size:13px;
+}

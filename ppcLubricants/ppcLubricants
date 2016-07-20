@@ -1,0 +1,6 @@
+.mainGraphic{
+	background-image: url("logo.png");
+	height:69px;
+	width:1022px;
+	background-repeat: no-repeat;
+}
