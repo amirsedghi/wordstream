@@ -59,7 +59,7 @@
 
 .aboutContent{
 	width: 550px;
-	height: 230px;
+	height: 235px;
 	color: white;
 	display: block;
 }
@@ -69,4 +69,6 @@
 	display: inline-block;
 	vertical-align: top;
 	margin: 0px 0px 0px 10px;
+	width: 550px;
+	height: 265px;
 }
