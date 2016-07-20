@@ -1,5 +1,7 @@
 *{
 	font-family: sans-serif;
+	/*margin: 0px;
+	padding: 0px;*/
 }
 .mainGraphic{
 	background-image: url("logo.png");
@@ -30,10 +32,11 @@
 	width: 382px;
 	height: 260px;
 	padding: 5px 0px 0px 5px;
+	display: inline-block;
 }
 
 .mainContent{
-	background-color: gray;
+	background-color: black;
 	width: 1022px;
 	height: 800px;
 }
@@ -45,4 +48,25 @@
 
 .footer{
 	display: inline-block;
+}
+
+.aboutHeader{
+	width: 550px;
+	height: 30px;
+	background-color: yellow;
+	display: block;
+}
+
+.aboutContent{
+	width: 550px;
+	height: 230px;
+	color: white;
+	display: block;
+}
+
+.headlinerText{
+	background-color: gray;
+	display: inline-block;
+	vertical-align: top;
+	margin: 0px 0px 0px 10px;
 }
